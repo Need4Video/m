@@ -1,5 +1,1 @@
-#
-# Exclude files from exporting
-#
-
 CNAME export-ignore
